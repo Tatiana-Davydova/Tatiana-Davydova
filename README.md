@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there👋, I'm Tatiana</h1>
-    <h3>I'm a Data Scientist from Saint Petersburg, Russia</h3>
+    <h3>I'm a Data Scientist from Saint Petersburg, Russia ru</h3>
     <h4> I'm ready to share with you my projects and experience of participating in hackathons. 
     Feel free to ask me any questions or suggest ideas for collaboration.</h4>
 <div>
@@ -8,16 +8,32 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
-### Languages and tools
+### Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
 title="python" wight="4" haight="4"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 title="sql" wight="4" haight="4"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
 title="nmp" wight="4" haight="4"/>&nbsp;
-                    
+
+Карточка профиля: 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?Tatiana-Davydova=daniilshat&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Tatiana-Davydova=daniilshat&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?Tatiana-Davydova=daniilshat&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?Tatiana-Davydova=daniilshat&theme=solarized_dark) 
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/starts?
-tatiana-davydova=vn7n24fzkq&theme=github_dark)
+Tatiana-Davydova=vn7n24fzkq&theme=github_dark)
 
 <!--
 **Tatiana-Davydova/Tatiana-Davydova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
