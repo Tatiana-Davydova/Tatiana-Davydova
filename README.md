@@ -12,7 +12,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" wight="4" haight="4"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="python" wight="4" haight="4"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="python" wight="4" haight="4"/>&nbsp;
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;
+                    
           
 <!--
 **Tatiana-Davydova/Tatiana-Davydova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
