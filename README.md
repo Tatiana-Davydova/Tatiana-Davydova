@@ -1,11 +1,12 @@
 <div id="header" align="center">
     <h1>Hi there👋, I'm Tatiana</h1>
     <h3>I'm a Data Scientist from Saint Petersburg, Russia</h3>
-    <h4> I'm ready to share with you my projects and experience of participating in hackathons. 
-    Feel free to ask me any questions or suggest ideas for collaboration.</h4>
+    <h4> I'm ready to share with you my projects and experience of participating in hackathons<h4> 
+    <h4>Feel free to ask me any questions or suggest ideas for collaboration</h4>
 <div>
 <a href="https://t.me/tani_davydova">
-    <img src="https://github.com/Tatiana-Davydova/Tatiana-Davydova/blob/main/Telegram.jpg">
+    <img src="https://github.com/Tatiana-Davydova/Tatiana-Davydova/blob/main/Telegram.jpg/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+</a>
 
 <!--
 **Tatiana-Davydova/Tatiana-Davydova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
