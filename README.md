@@ -17,23 +17,18 @@ title="sql" wight="4" haight="4"/>&nbsp;
 title="nmp" wight="4" haight="4"/>&nbsp;
 
 Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Davydova&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Davydova&theme=github_dark)
 
 Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Davydova&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Davydova&theme=github_dark)
 
 Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tatiana-Davydova&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tatiana-Davydova&theme=github_dark)
 
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Davydova&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Davydova&theme=github_dark)
 
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tatiana-Davydova&theme=solarized_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tatiana-Davydova&theme=github_dark) 
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/starts?
-username=Tatiana-Davydova=vn7n24fzkq&theme=github_dark)
 
 <!--
 **Tatiana-Davydova/Tatiana-Davydova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
