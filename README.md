@@ -16,13 +16,10 @@ title="sql" wight="4" haight="4"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
 title="nmp" wight="4" haight="4"/>&nbsp;
 
-Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Davydova&theme=github_dark)
 
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Davydova&theme=github_dark)
 
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tatiana-Davydova&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Davydova&theme=github_dark)
