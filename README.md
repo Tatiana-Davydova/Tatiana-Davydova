@@ -16,7 +16,9 @@ title="sql" wight="4" haight="4"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
 title="nmp" wight="4" haight="4"/>&nbsp;
                     
-          
+![](https://github-profile-summary-cards.vercel.app/api/cards/starts?
+tatiana-davydova=vn7n24fzkq&theme=github_dark)
+
 <!--
 **Tatiana-Davydova/Tatiana-Davydova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
