@@ -23,13 +23,13 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="msql" alt="msql" width="40" height="40"/>          
 </div>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Davydova&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Davydova&theme=flag_india)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Davydova&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tatiana-Davydova&theme=nord_bright)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Davydova&theme=flag_india)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tatiana-Davydova&theme=flag_india)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Davydova&theme=nord_bright)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tatiana-Davydova&theme=nord_bright) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tatiana-Davydova&theme=flag_india)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tatiana-Davydova&theme=flag_india) 
 
 
 <!--
