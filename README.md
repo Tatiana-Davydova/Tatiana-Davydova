@@ -4,8 +4,8 @@
     <h4> I'm ready to share with you my projects and experience of participating in hackathons</h4> 
     <h4>Feel free to ask me any questions or suggest ideas for collaboration</h4>
 <div>
-<a href="https://t.me/tani_davydova">
-    <img src="https://github.com/Tatiana-Davydova/Tatiana-Davydova/blob/main/Telegram.jpg" alt="Telegram"/>
+<a href="@tani_davydova">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 
 <!--
