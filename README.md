@@ -11,9 +11,9 @@
 ___
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="py"  wight="40" haight="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="sql" alt="sql" wight="40" haight="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="nmp" alt="nmp" wight="40" haight="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="py" alt="py"  width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="nmp" alt="nmp"width="40" height="40"/>&nbsp
 </div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Davydova&theme=github_dark)
