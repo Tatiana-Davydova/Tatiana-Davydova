@@ -23,6 +23,8 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="msql" alt="msql" width="40" height="40"/>          
 </div>
 
+___
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Davydova&theme=flag_india)
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Davydova&theme=flag_india)
