@@ -30,7 +30,6 @@ ___
 
 ___
 
----
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Davydova&theme=flag_india)
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Davydova&theme=flag_india)
