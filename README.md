@@ -3,8 +3,8 @@
     <h3>I'm a Data Scientist from Saint-Petersburg</h3> 
 <div>
 
-#### I'm ready to share with you my projects and experience of participating in hackathons.  
-#### Feel free to ask me any questions or suggest ideas for collaboration.
+I'm ready to share with you my projects and experience of participating in hackathons.  
+Feel free to ask me any questions or suggest ideas for collaboration.
 
 <!-- <div align="center">    
     <h4> I'm ready to share with you my projects and experience of participating in hackathons.</h4>  
