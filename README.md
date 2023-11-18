@@ -1,9 +1,14 @@
 <div id="header" align="center">
     <h1>Hi there👋, I'm Tatiana</h1>
-    <h3>I'm a Data Scientist from Saint Petersburg, Russia</h3>
-    <h4> I'm ready to share with you my projects and experience of participating in hackathons. 
-    Feel free to ask me any questions or suggest ideas for collaboration.</h4>
-<div>
+    <h3>I'm a Data Scientist from Saint-Petersburg</h3> <div>
+I'm ready to share with you my projects and experience of participating in hackathons.  
+Feel free to ask me any questions or suggest ideas for collaboration.
+
+<!-- <div align="center">    
+    <h4> I'm ready to share with you my projects and experience of participating in hackathons.</h4>  
+    <h4>Feel free to ask me any questions or suggest ideas for collaboration.</h4>
+<div> -->
+
 <a href="https://t.me/tani_davydova">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
@@ -23,6 +28,7 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="msql" alt="msql" width="40" height="40"/>          
 </div>
 
+---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tatiana-Davydova&theme=flag_india)
 
 <!--![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tatiana-Davydova&theme=flag_india)
