@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1>Hi there👋, I'm Tatiana</h1>
-    <h3>I'm a Data Scientist from Saint-Petersburg</h3> 
+    <h3>I'm a Data Scientist from Saint-Petersburg, Russia</h3> 
 <div>
 
 I'm ready to share with you my projects and experience of participating in hackathons.  
@@ -15,6 +15,7 @@ Feel free to ask me any questions or suggest ideas for collaboration.
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <div>
+
 ___
 
 <div>
